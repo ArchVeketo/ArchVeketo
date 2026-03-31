@@ -19,7 +19,7 @@
   <a href="https://twitter.com/otekev?" target="blank">
     <img src="https://img.shields.io/twitter/follow/otakev??logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/victhor guilherme santos lima" target="blank">
+  <a href="https://www.linkedin.com/in/victhorstos/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/victhorstos" target="blank">
