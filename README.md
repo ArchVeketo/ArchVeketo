@@ -62,6 +62,29 @@ $ _
   <img src="https://streak-stats.demolab.com?user=ArchVeketo&theme=dark&hide_border=true&border_radius=10&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="streak"/>
 </p>
 
+<!-- fallback caso os cards acima nao carreguem -->
+<details>
+<summary><code>cards offline? &gt;_ ver versao ascii</code></summary>
+
+```
+   ┌───────────────────────────────────────────────┐
+   │  ARCHVEKETO :: STATS                            │
+   ├───────────────────────────────────────────────┤
+   │                                                 │
+   │   commits   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   [ growing ]│
+   │   repos     ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   [ building ]│
+   │   streak    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   [ on fire ]│
+   │                                                 │
+   │   > top_langs                                   │
+   │     delphi   ██████████████░░░░░░░   70%        │
+   │     python   ██████░░░░░░░░░░░░░░░░   30%        │
+   │     ...      still cooking 🍳                    │
+   │                                                 │
+   └───────────────────────────────────────────────┘
+```
+
+</details>
+
 ---
 
 ### `> trophies`
@@ -69,6 +92,21 @@ $ _
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArchVeketo&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
 </p>
+
+<!-- fallback caso os trophies nao carreguem -->
+<details>
+<summary><code>cards offline? &gt;_ ver versao ascii</code></summary>
+
+```
+   ╔══════════╗  ╔══════════╗  ╔══════════╗  ╔══════════╗
+   ║   🏆     ║  ║   🔥     ║  ║   🐍     ║  ║   ☕     ║
+   ║  COMMITS ║  ║  STREAK  ║  ║  PYTHON  ║  ║  CAFFEINE║
+   ║   RANK S ║  ║  RANK A  ║  ║  RANK B  ║  ║  RANK SS ║
+   ╚══════════╝  ╚══════════╝  ╚══════════╝  ╚══════════╝
+              " grind agora, glória depois "
+```
+
+</details>
 
 ---
 
